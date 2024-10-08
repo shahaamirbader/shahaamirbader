@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @shahaamirbader<br>👀 I’m interested in Edge Machine Learning / AR / VR<br>🌱 I’m currently a PhD Student @ University of Houston, TX, USA<br>💞️ I’m looking to collaborate on Machine Learning Projects<br>📫 How to reach me - shahaamirbader@gmail.com
+👋 Hi, I’m @shahaamirbader<br>👀 I’m interested in Edge Machine Learning / AR / VR <br>💞️ I’m looking to collaborate on Machine Learning Projects<br>📫 How to reach me - shahaamirbader@gmail.com
 
 
 # 💻 Tech Stack:
